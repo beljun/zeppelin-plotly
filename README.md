@@ -1,6 +1,6 @@
 # Overview
 
-Apache Zeppelin comes with basic charts out of the box and even offers the ability to call into the underlying NVD3 library. Sometimes, though, you just want some [Plot.ly](https://plot.ly/) goodness. While this awesome visualization library can be imported directly within Jupyter, having it work on Zeppelin needs a bit more of work. This repository is one way of making that happen.
+[Apache Zeppelin](https://zeppelin.incubator.apache.org/) comes with basic charts out of the box and even offers the ability to call into the underlying NVD3 library. Sometimes, though, you just want some [Plot.ly](https://plot.ly/) goodness. While this awesome visualization library can be imported directly within Jupyter, having it work on Zeppelin needs a bit more of work. This repository is one way of making that happen.
 
 ![](./assets/Plotly-on-Zeppelin-screenie.png)
 
